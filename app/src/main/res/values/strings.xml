@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start_button_text">Commencer</string>
+    <string name="stop_button_text">Arrêt</string>
+    <string name="location_access_needed">Cette application nécessite un accès à la position</string>
+    <string name="grant_location_access">Veuillez accorder des autorisations de localisation afin que l\'application puisse détecter les balises</string>
+    <string name="not_support_bluetooth_msg">Cet appareil ne prend pas en charge le bluetooth, il n\'est pas possible de rechercher des balises</string>
+    <string name="cancel_button_text">Annuler</string>
+    <string name="location_disabled">Localisation en mode haute précision non activé</string>
+    <string name="location_settings">Ouvrir les paramètres de localisation</string>
+    <string name="location_not_granted">Étant donné que l\'autorisation de localisation n\'a pas été accordée,</string>
+    <string name="cannot_discover_beacons">cette application ne pourra pas rechercher de balises</string>
+    <string name="funcionality_limited">fonctionnalité limitée</string>
+    <string name="no_bluetooth_msg">Lorsque Bluetooth est désactivé, il n\'est pas possible de rechercher des balises</string>
+    <string name="start_looking_for_beacons">Commencer à chercher des balises</string>
+    <string name="stop_looking_for_beacons">Arrêt de la recherche de balises</string>
+    <string name="no_beacons_detected">Aucune balise trouvée</string>
+    <string name="beacon_detected">Le beacon a été détecté!</string>
+</resources>
